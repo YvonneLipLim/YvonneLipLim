@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics / Data Science
 - 🌱 I’m currently diving deeper into learning Python, R and BigQuery 
 - 💞️ I’m looking for a mentor to help me to build the necessary skills
-- 📫 How to reach me: contact via email at yvonnelip@gmail.com
+- 📫 How to reach me: contact via email at 164453695+YvonneLipLim@users.noreply.github.com
 - ⚡ Fun fact: I am not brilliant but I will put in 101% commitment to reach my goals, building solid foundations to learn how I can do better
 
 <!---
