@@ -31,5 +31,3 @@ I am skilled in driving cost efficiencies and improving productivity using stati
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YvonneLipLim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
