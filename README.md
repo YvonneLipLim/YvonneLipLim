@@ -1,7 +1,7 @@
 # 💫 About Me:
-Experienced and adaptable data analyst with a keen eye for detail, excelling in interpreting and collecting quantifiable information to optimize business operations. Proficient in Excel, SQL, and Tableau, with a talent for uncovering trends and patterns through data visualization. 
+Results-driven data analyst with a sharp eye for detail and a proven track record of transforming complex data into actionable insights. Expertise in SQL, Excel, and Tableau, coupled with advanced skills in statistical analysis and data modelling. Consistently uncover key trends and patterns through innovative data visualization techniques, driving cost efficiencies and productivity improvements. 
 <br><br>
-I am skilled in driving cost efficiencies and improving productivity using statistics analysis, analytical research, and data modelling. Aspiring to enhance data-driven decision-making processes and further develop in data analytics transforming complex data into actionable insights.
+Passionate about leveraging data to enhance decision-making processes and eager to further develop cutting-edge analytics skills in a dynamic environment.
 <br><br>
 
 ## 🌐 Socials:
@@ -28,7 +28,7 @@ I am skilled in driving cost efficiencies and improving productivity using stati
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YvonneLipLim&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YvonneLipLim&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=java,html,css)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YvonneLipLim&icon=0&color=0)](https://visitcount.itsvg.in)
