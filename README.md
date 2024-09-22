@@ -25,7 +25,7 @@ Passionate about leveraging data to enhance decision-making processes and eager 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 <br><br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Overview:
 ![](https://github-readme-stats.vercel.app/api?username=YvonneLipLim&theme=default&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YvonneLipLim&theme=default&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&include_all_languages=true&layout=compact)](https://github.com/YvonneLipLim)<br/>
