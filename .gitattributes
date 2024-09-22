@@ -1,3 +1,6 @@
 *.html linguist-detectable=true
 *.html linguist-language=HTML
 *.html text
+*.md linguist-detectable=true
+*.md linguist-language=md
+*.md text
