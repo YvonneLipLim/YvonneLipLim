@@ -26,10 +26,14 @@ Passionate about leveraging data to enhance decision-making processes and eager 
 <br><br>
 
 # 📊 GitHub Overview:
-![](https://github-readme-stats.vercel.app/api?username=YvonneLipLim&theme=default&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YvonneLipLim&theme=default&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&include_all_languages=true&layout=compact)](https://github.com/YvonneLipLim)<br/>
-<br>
+![](https://github-readme-stats.vercel.app/api?username=YvonneLipLim&theme=default&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=YvonneLipLim&theme=default&hide_border=false)<br/><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&include_all_languages=true&layout=compact&card_width=468&card_height=300)](https://github.com/YvonneLipLim)<br/><br/>
+
+
+# :memo: Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Basic-Python-Coding&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase)
+<br/><br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YvonneLipLim&icon=0&color=0)](https://visitcount.itsvg.in)
