@@ -30,7 +30,7 @@ Passionate about leveraging data to enhance decision-making processes and eager 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YvonneLipLim&include_all_languages=true&layout=compact&card_width=468&card_height=300)](https://github.com/YvonneLipLim)<br/><br/>
 
 
-# :memo: Top repositories
+# :memo: Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project4-DataVisualization-Tableau)<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Basic-Python-Coding&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Basic-Python-Coding)
 <br/><br/>
