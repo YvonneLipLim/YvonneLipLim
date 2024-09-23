@@ -31,8 +31,8 @@ Passionate about leveraging data to enhance decision-making processes and eager 
 
 
 # :memo: Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Basic-Python-Coding&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project4-DataVisualization-Tableau)<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Basic-Python-Coding&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Basic-Python-Coding)
 <br/><br/>
 
 ---
