@@ -4,7 +4,7 @@ Results-driven data analyst with a sharp eye for detail and a proven track recor
 Passionate about leveraging data to enhance decision-making processes and eager to further develop cutting-edge analytics skills in a dynamic environment.
 <br><br>
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yvonne-lip-lim-000417104/) [![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonne-lip-lim-000417104/) [![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
 <br>
 
 
