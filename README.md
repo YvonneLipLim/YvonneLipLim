@@ -1,12 +1,16 @@
 # 💫 About Me:
-Results-driven data analyst with a sharp eye for detail and a proven track record of transforming complex data into actionable insights. Expertise in SQL, Excel, and Tableau, coupled with advanced skills in statistical analysis and data modelling. Consistently uncover key trends and patterns through innovative data visualization techniques, driving cost efficiencies and productivity improvements. 
+A conscientious professional with a rich background in human resources and operations management. Capable as a swiss army knife, in examining information, identifying patterns, and deriving meaningful insights. 
 <br><br>
-Passionate about leveraging data to enhance decision-making processes and eager to further develop cutting-edge analytics skills in a dynamic environment.
+Certified in Data Analytics and Data Engineering, as well as Agile methodologies, leveraging tools like SQL, Excel, Python, Tableau, and Power BI to craft robust data pipelines and engaging visualizations. Committed to optimizing processes, enhancing problem-solving efforts, and fostering cross-functional collaboration.
 <br><br>
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonne-lip-lim-000417104/) [![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
 <br>
 
+## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonne-lip-lim-000417104/) 
+[![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
+<br><br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
