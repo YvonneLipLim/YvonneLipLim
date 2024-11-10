@@ -4,7 +4,7 @@ A conscientious professional with a rich background in human resources and opera
 Certified in Data Analytics and Data Engineering, as well as Agile methodologies, leveraging tools like SQL, Excel, Python, Tableau, and Power BI to craft robust data pipelines and engaging visualizations. Committed to optimizing processes, enhancing problem-solving efforts, and fostering cross-functional collaboration.
 <br><br>
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvonne-lip-lim-000417104/) [![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yvonne-lip-l-000417104) [![Tableau](https://img.shields.io/badge/Tableau-%2300447A.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/yvonne.lip/vizzes)
 <br>
 
 # 💻 Tech Stack:
