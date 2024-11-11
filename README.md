@@ -31,7 +31,7 @@ Certified in Data Analytics and Data Engineering, as well as Agile methodologies
 
 # :memo: Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=udacity-project3-musicstoredatabase&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project3-MusicStoreDatabase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Project4-DataVisualization-Tableau&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Project4-DataVisualization-Tableau)<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Udacity-Basic-Python-Coding&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Basic-Python-Coding)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvonneliplim&repo=Python_Projects&theme=default&hide_border=false)](https://github.com/yvonneliplim/Udacity-Basic-Python-Coding)
 <br/><br/>
 
 ---
